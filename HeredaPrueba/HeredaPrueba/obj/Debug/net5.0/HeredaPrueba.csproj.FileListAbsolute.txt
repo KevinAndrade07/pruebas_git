@@ -1,0 +1,16 @@
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\bin\Debug\net5.0\HeredaPrueba.exe
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\bin\Debug\net5.0\HeredaPrueba.deps.json
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\bin\Debug\net5.0\HeredaPrueba.runtimeconfig.json
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\bin\Debug\net5.0\HeredaPrueba.runtimeconfig.dev.json
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\bin\Debug\net5.0\HeredaPrueba.dll
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\bin\Debug\net5.0\ref\HeredaPrueba.dll
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\bin\Debug\net5.0\HeredaPrueba.pdb
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\obj\Debug\net5.0\HeredaPrueba.csproj.AssemblyReference.cache
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\obj\Debug\net5.0\HeredaPrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\obj\Debug\net5.0\HeredaPrueba.AssemblyInfoInputs.cache
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\obj\Debug\net5.0\HeredaPrueba.AssemblyInfo.cs
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\obj\Debug\net5.0\HeredaPrueba.csproj.CoreCompileInputs.cache
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\obj\Debug\net5.0\HeredaPrueba.dll
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\obj\Debug\net5.0\ref\HeredaPrueba.dll
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\obj\Debug\net5.0\HeredaPrueba.pdb
+C:\Users\kandrade\source\repos\HeredaPrueba\HeredaPrueba\obj\Debug\net5.0\HeredaPrueba.genruntimeconfig.cache

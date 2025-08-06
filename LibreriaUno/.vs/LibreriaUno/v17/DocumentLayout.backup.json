@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kandrade\\source\\repos\\LibreriaUno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39E17945-B593-4E21-AFD4-4F9C5109775F}|LibreriaUno\\LibreriaUno.csproj|c:\\users\\kandrade\\source\\repos\\libreriauno\\libreriauno\\claseuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39E17945-B593-4E21-AFD4-4F9C5109775F}|LibreriaUno\\LibreriaUno.csproj|solutionrelative:libreriauno\\claseuno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClaseUno.cs",
+              "DocumentMoniker": "C:\\Users\\kandrade\\source\\repos\\LibreriaUno\\LibreriaUno\\ClaseUno.cs",
+              "RelativeDocumentMoniker": "LibreriaUno\\ClaseUno.cs",
+              "ToolTip": "C:\\Users\\kandrade\\source\\repos\\LibreriaUno\\LibreriaUno\\ClaseUno.cs*",
+              "RelativeToolTip": "LibreriaUno\\ClaseUno.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:03:25.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\bin\Debug\ProjectUni.exe.config
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\bin\Debug\ProjectUni.exe
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\bin\Debug\ProjectUni.pdb
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\obj\Debug\ProjectUni.Form1.resources
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\obj\Debug\ProjectUni.Properties.Resources.resources
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\obj\Debug\ProjectUni.csproj.GenerateResource.cache
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\obj\Debug\ProjectUni.csproj.CoreCompileInputs.cache
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\obj\Debug\ProjectUni.exe
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\obj\Debug\ProjectUni.pdb
+C:\Users\kandrade\source\repos\ProjectUni\ProjectUni\obj\Debug\ProjectUni.csproj.AssemblyReference.cache

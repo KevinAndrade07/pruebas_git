@@ -1,0 +1,15 @@
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\bin\Debug\net8.0\LibreriaDos.deps.json
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\bin\Debug\net8.0\LibreriaDos.dll
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\bin\Debug\net8.0\LibreriaDos.pdb
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\LibreriaDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\LibreriaDos.AssemblyInfoInputs.cache
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\LibreriaDos.AssemblyInfo.cs
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\LibreriaDos.csproj.CoreCompileInputs.cache
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\LibreriaDos.dll
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\refint\LibreriaDos.dll
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\LibreriaDos.pdb
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\ref\LibreriaDos.dll
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\bin\Debug\net8.0\LibreriaUno.dll
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\bin\Debug\net8.0\LibreriaUno.pdb
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\LibreriaDos.csproj.AssemblyReference.cache
+C:\Users\kandrade\source\repos\LibreriaDos\LibreriaDos\obj\Debug\net8.0\Libreria.EC493E3A.Up2Date

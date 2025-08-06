@@ -1,0 +1,15 @@
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\bin\Debug\net8.0\LibreriaUno.deps.json
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\bin\Debug\net8.0\LibreriaUno.dll
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\bin\Debug\net8.0\LibreriaUno.pdb
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\bin\Debug\net8.0\LibreriaDos.dll
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\bin\Debug\net8.0\LibreriaDos.pdb
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\LibreriaUno.csproj.AssemblyReference.cache
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\LibreriaUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\LibreriaUno.AssemblyInfoInputs.cache
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\LibreriaUno.AssemblyInfo.cs
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\LibreriaUno.csproj.CoreCompileInputs.cache
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\Libreria.C6E00595.Up2Date
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\LibreriaUno.dll
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\refint\LibreriaUno.dll
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\LibreriaUno.pdb
+C:\Users\kandrade\source\repos\LibreriaUno\LibreriaUno\obj\Debug\net8.0\ref\LibreriaUno.dll
