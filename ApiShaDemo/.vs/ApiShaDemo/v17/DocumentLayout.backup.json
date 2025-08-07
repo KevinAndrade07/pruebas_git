@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kandrade\\source\\repos\\ApiShaDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5550C0-3094-4B51-9C13-41F601B40D22}|ApiShaDemo\\ApiShaDemo.csproj|c:\\users\\kandrade\\source\\repos\\apishademo\\apishademo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5550C0-3094-4B51-9C13-41F601B40D22}|ApiShaDemo\\ApiShaDemo.csproj|solutionrelative:apishademo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kandrade\\source\\repos\\ApiShaDemo\\ApiShaDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ApiShaDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\kandrade\\source\\repos\\ApiShaDemo\\ApiShaDemo\\Program.cs",
+              "RelativeToolTip": "ApiShaDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T22:00:45.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

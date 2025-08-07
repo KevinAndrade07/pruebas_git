@@ -1,0 +1,15 @@
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\bin\Debug\net8.0\ApiShaDemo.exe
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\bin\Debug\net8.0\ApiShaDemo.deps.json
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\bin\Debug\net8.0\ApiShaDemo.runtimeconfig.json
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\bin\Debug\net8.0\ApiShaDemo.dll
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\bin\Debug\net8.0\ApiShaDemo.pdb
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\ApiShaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\ApiShaDemo.AssemblyInfoInputs.cache
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\ApiShaDemo.AssemblyInfo.cs
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\ApiShaDemo.csproj.CoreCompileInputs.cache
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\ApiShaDemo.sourcelink.json
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\ApiShaDemo.dll
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\refint\ApiShaDemo.dll
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\ApiShaDemo.pdb
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\ApiShaDemo.genruntimeconfig.cache
+C:\Users\kandrade\source\repos\ApiShaDemo\ApiShaDemo\obj\Debug\net8.0\ref\ApiShaDemo.dll
